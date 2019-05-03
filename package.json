@@ -1,0 +1,19 @@
+{
+  "name": "ab-generator",
+  "version": "1.0.1",
+  "description": "Generate project squelton.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisdjer/ab-generator.git"
+  },
+  "bin": {
+    "ab-gen": "./index.js"
+  },
+  "keywords": [],
+  "author": "Anis Bouhachem <contact@bouhachem.me>",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
